@@ -1,0 +1,26 @@
+文件名称：Generate ideal BGS plus noise and cross-correlation operations
+文件说明：生成理想的BGS并加噪声及互相关操作
+
+文件名称：lorentz_fit1.m
+文件说明：Lorentz拟合函数
+
+文件名称：lorentz_fit2D_V2.m
+文件说明：Lorentz拟合函数
+
+文件名：lorentzBGSfit.m
+文件说明：Lorentz拟合函数
+
+文件名：lorentzfit.m
+文件说明：Lorentz拟合函数
+
+文件名：Program to generate an ideal BGS.m
+文件说明：生成理想BGS的程序
+
+文件名：SNR_calc.m
+文件说明：求BOTDA中的SNR
+
+文件名：Main_BP Neural Networks
+文件说明：基于BP神经网络算法提取BOTDA频移信息的程序
+
+文件夹名：EdgeDetection
+说明：基于边缘检测算法提取BOTDA频移信息的程序

@@ -6,3 +6,5 @@ We proposed a method based on back propagation (BP) neural network and the spect
 We have provided this _Optics Express_ paper [Ref] for better understanding. 
 
 Ref: Zhiyuan Cao, Nan Guo, Meihong Li, Kuanglu YU, et al, Back propagation neural network based signal acquisition for Brillouin distributed optical fiber sensors, Optics Express, 2019/02, 27(4), 4549-4561.
+
+First Online Date: 10:00 Beijing Time, May. 11th, 2022
